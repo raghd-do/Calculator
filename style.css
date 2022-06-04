@@ -1,0 +1,26 @@
+#calculator {
+    display:block;
+    margin:auto;
+    padding: 16px;
+    width: 250px;
+}
+
+.circle {
+    padding: 8px 18px;
+    border-radius: 100px;
+}
+
+.operator {
+    border: 0px;
+    background-color: #FF8C00;
+}
+
+#equals {
+    background-color: silver;
+}
+
+.cut-text {
+    text-overflow: ellipsis;
+    text-overflow: hidden;
+    white-space: nowrap;
+}
